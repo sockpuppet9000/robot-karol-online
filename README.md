@@ -54,7 +54,7 @@ Für einen maßgeschneiderten Unterricht können im [Aufgaben-Editor](https://ka
 
 ### Anweisungen
 
-![grafik](https://user-images.githubusercontent.com/13507950/174558915-005a88e7-19fd-415f-b97afee7-19fd-415f-b97a-27a857eb36a1.png)
+![grafik](https://user-images.githubusercontent.com/13507950/174558915-005a88e7-19fd-415f-b97a-27a857eb36a1.png)
 
 `Schritt` - Karol geht einen Schritt nach vorne.
 
