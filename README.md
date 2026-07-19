@@ -1,3 +1,15 @@
+> [!IMPORTANT]
+> **Status dieses Repositories:** nicht-kanonischer öffentlicher Fork/Snapshot.
+> Der geprüfte `main`-Stand endet bei `1cbc74c2` vom 30. August 2025. Derselbe
+> Commit ist Teil der Historie des kanonischen Upstreams
+> [`Entkenntnis/robot-karol-online`](https://github.com/Entkenntnis/robot-karol-online);
+> der Upstream-Vergleich enthält danach 461 weitere Commits bis zum geprüften
+> Stand `0764c578`. Für Produktdokumentation, Issues, Releases, Deployment und
+> Beiträge ist daher der Upstream maßgeblich. Für diesen Fork ist keine eigene
+> Produktlinie oder Veröffentlichung belegt. Siehe
+> [`FORK_BACKLOG.md`](FORK_BACKLOG.md) für Sync-, Archivierungs- und
+> Dispositionsarbeit.
+
 <a href="https://karol.arrrg.de/"><img src="https://user-images.githubusercontent.com/13507950/216998771-19c71ce3-46de-47fb-86e9-c051eb89fdb0.png" alt="Robot Karol Quest"/></a>
 
 _Der zeitlose Klassiker für den spielerischen Einstieg in die Programmierung._
@@ -42,7 +54,7 @@ Für einen maßgeschneiderten Unterricht können im [Aufgaben-Editor](https://ka
 
 ### Anweisungen
 
-![grafik](https://user-images.githubusercontent.com/13507950/174558915-005a88e7-19fd-415f-b97a-27a857eb36a1.png)
+![grafik](https://user-images.githubusercontent.com/13507950/174558915-005a88e7-19fd-415f-b97afee7-19fd-415f-b97a-27a857eb36a1.png)
 
 `Schritt` - Karol geht einen Schritt nach vorne.
 
@@ -58,7 +70,7 @@ Für einen maßgeschneiderten Unterricht können im [Aufgaben-Editor](https://ka
 
 `Aufheben` - Karol hebt einen Ziegel vor sich auf.
 
-`Aufheben(anzahl)` - Karol hebt `anzahl` Ziegel vor sich auf.
+`Aufheben(anzahl)` - Karol hebt `anzahl` Ziegel.
 
 `MarkeSetzen` - Karol setzt unter sich eine Marke.
 
